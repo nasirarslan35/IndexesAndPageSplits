@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "IndexesAndPageSplits", "IndexesAndPageSplits\IndexesAndPageSplits.dtproj", "{6F730C7B-2C6E-4D4A-AE94-04B7DD71FCDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F730C7B-2C6E-4D4A-AE94-04B7DD71FCDA}.Development|Default.ActiveCfg = Development
+		{6F730C7B-2C6E-4D4A-AE94-04B7DD71FCDA}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71CFC53D-52A0-4131-A233-ADE58F49F201}
+	EndGlobalSection
+EndGlobal
